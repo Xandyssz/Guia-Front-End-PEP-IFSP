@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadofrontend">
+  <a href="https://pep.ifsp.edu.br/">
     <img src="./images/ifsp.png" alt="Guia do Desenvolvedor Front-end" width="352" height="126">
   </a>
-  <h1 align="center">Guia do Desenvolvedor Front-end</h1>
+  <h1 align="center">Guia do Desenvolvedor Front-end - IFSP</h1>
 </p>
 
 ## :dart: O guia
 
-Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor front-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, faça bom uso do guia e bons estudos!
+Abaixo você encontrará conteúdos para te guiar e ajudar no front-end.
 
 ## ◾ HTML
 
