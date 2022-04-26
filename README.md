@@ -9,40 +9,6 @@
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor front-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, faça bom uso do guia e bons estudos!
 
-<sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
-</sub>
-
-## 📛 Direitos autorais
-
-> Esse projeto tomou como rerefência para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agradecendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
-
-- [Roadmap.sh](https://roadmap.sh/roadmaps) - Site do roadmap.sh aonde você encontrará diversos roadmaps em inglês.
-- [Repositório Oficial do Projeto](https://github.com/kamranahmedse/developer-roadmap/blob/master/license) - Repositório oficial do projeto em inglês.
-
-## :warning: Nossa proposta
-
-> A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
-
-## :beginner: Para quem está começando agora
-
-> Não se assuste com a quantidade de conteúdo apresentados neste guia. Mesmo o foco sendo para profissionais já consolidados que desejam se manter atualizados, acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
-
-## 🚨 Colabore
-
-- Abra Pull Requests com atualizações
-- Discuta ideias em Issues
-- Compartilhe o repositório com a sua comunidade
-- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
-
-## 🗺️ Frontend Roadmap
-
-![Frontend Roadmap](./images/frontend.jpg)
-
 ## ◾ HTTP
 
 > O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
